@@ -25,11 +25,8 @@ Interação Fluida: Converse com a IA em tempo real, com respostas instantâneas
 **Suporte a Múltiplos Formatos**
 
 Mensagens de Texto: Troque mensagens de texto facilmente.
-
 Suporte a Imagens: Envie e receba imagens diretamente no chat.
-
 Mensagens de Áudio: Grave e compartilhe áudios com facilidade.
-
 
 
 **Histórico de Conversas**
