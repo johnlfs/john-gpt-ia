@@ -1,0 +1,7 @@
+{
+  /* Visite https://firebase.google.com/docs/database/security para entender melhor sobre as regras de segurança. */
+  "rules": {
+    ".read": false,
+    ".write": false
+  }
+}

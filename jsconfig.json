@@ -1,0 +1,41 @@
+{
+  "compilerOptions": {
+    // Permite que arquivos JavaScript sejam compilados junto com TypeScript
+    "allowJs": true,
+
+    // Define a versão do ECMAScript para qual o código será compilado
+    // ES5 é amplamente suportado pelos navegadores
+    "target": "es5",
+
+    // Especifica o sistema de módulos a ser usado
+    // 'esnext' usa o sistema de módulos mais recente do JavaScript
+    "module": "esnext",
+
+    // Define o diretório base para resolução de módulos
+    "baseUrl": "./",
+
+    // Define como os módulos serão resolvidos
+    // 'bundler' é otimizado para ferramentas de empacotamento como webpack
+    "moduleResolution": "bundler",
+
+    // Configura aliases de caminhos para importações
+    // '@/*' permite usar '@/' como atalho para a pasta 'src/'
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    },
+
+    // Define as bibliotecas que estarão disponíveis durante a compilação
+    "lib": [
+      // Inclui funcionalidades mais recentes do JavaScript
+      "esnext",
+      // Inclui tipos para manipulação do DOM
+      "dom",
+      // Inclui tipos para iteração no DOM
+      "dom.iterable",
+      // Inclui tipos para scripts host
+      "scripthost"
+    ]
+  }
+}

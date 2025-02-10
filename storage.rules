@@ -1,0 +1,12 @@
+rules_version = '2';
+
+// Crie regras baseadas nos dados do seu banco de dados Firestore
+// allow write: if firestore.get(
+//    /databases/(default)/documents/users/$(request.auth.uid)).data.isAdmin;
+service firebase.storage {
+  match /b/{bucket}/o {
+    match /{allPaths=**} {
+      allow read, write: if false;
+    }
+  }
+}
