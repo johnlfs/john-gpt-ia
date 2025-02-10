@@ -32,14 +32,14 @@ Envie e receba imagens diretamente no chat.
 Grave e compartilhe áudios com facilidade.
 
 
-**Histórico de Conversas**
+### Histórico de Conversas
 
 Armazenamento Local: Mensagens salvas localmente, mantendo o histórico mesmo após atualizar a página.
 Firebase em Tempo Real: Armazene mensagens na nuvem para acesso em vários dispositivos.
 
 
 
-**Interface Amigável**
+### Interface Amigável
 
 Vuetify 3: Design bonito e intuitivo com componentes Material Design.
 Layout Responsivo: Otimizado para computadores e dispositivos móveis.
