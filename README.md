@@ -4,11 +4,18 @@
 ## ⚡ Desenvolvido com Tecnologias Modernas
 
 **Vue 3:** Uma ferramenta versátil que torna a criação de interfaces dinâmicas mais simples.
+
 **Vuetify** 3: Design elegante com Material Design ao seu alcance.
+
 **Pinia:** Gerenciamento de estado simplificado e eficiente.
+
 **Vite:** Ferramenta de construção ultra-rápida para uma experiência de desenvolvimento suave.
+
 **Firebase:** Sistema em tempo real para banco de dados e armazenamento.
+
 **OpenAI:** O cérebro por trás da operação, trazendo recursos avançados de chat com IA.
+
+
 
 Este projeto utiliza essas tecnologias de ponta para oferecer uma interface de chat fluida e responsiva, enriquecida com interações baseadas em IA. Desfrute do poder dos dados em tempo real, design elegante e conversas inteligentes em um único pacote.
 
